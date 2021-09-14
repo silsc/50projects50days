@@ -18,3 +18,5 @@ Practice projects part of [@bradtraversy](https://github.com/bradtraversy) cours
 7. Split Landing Page
 
 8. Form Wave Animation
+
+9. Sound Board

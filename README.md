@@ -16,3 +16,5 @@ Practice projects part of [@bradtraversy](https://github.com/bradtraversy) cours
 6. Scroll Animation
 
 7. Split Landing Page
+
+8. Form Wave Animation

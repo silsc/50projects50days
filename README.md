@@ -22,3 +22,9 @@ Practice projects part of [@bradtraversy](https://github.com/bradtraversy) cours
 9. Sound Board
 
 10. Dad Jokes
+
+11. Event KeyCodes
+
+12. FAQ Collapse
+
+13. Random Choice

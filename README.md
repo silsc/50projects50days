@@ -28,3 +28,7 @@ Practice projects part of [@bradtraversy](https://github.com/bradtraversy) cours
 12. FAQ Collapse
 
 13. Random Choice
+
+14. Animated Navigation
+
+15. Incrementing Counter

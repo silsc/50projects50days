@@ -36,3 +36,6 @@ Practice projects part of [@bradtraversy](https://github.com/bradtraversy) cours
 16. Drink Water
 
 17. Movie App
+
+18. Background Slider
+

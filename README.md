@@ -39,3 +39,4 @@ Practice projects part of [@bradtraversy](https://github.com/bradtraversy) cours
 
 18. Background Slider
 
+19. Theme Clock

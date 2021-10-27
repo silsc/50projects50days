@@ -46,3 +46,5 @@ Practice projects part of [@bradtraversy](https://github.com/bradtraversy) cours
 21. Drag N Drop
 
 22. Drawing App
+
+23. Kinetic CSS Loader

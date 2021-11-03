@@ -12,11 +12,11 @@ setTimeout(getData, 2000)
 
 function getData() {
     headerEl.innerHTML = '<img src="https://source.unsplash.com/random" alt="">';
-    titleEl.innerHTML = 'Lorem ipsum dolor sit amet';
-    excerptEl.innerHTML = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, quia';
+    titleEl.textContent = 'Lorem ipsum dolor sit amet';
+    excerptEl.textContent = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, quia';
     profileImgEl.innerHTML = '<img src="https://randomuser.me/api/portraits/men/75.jpg" alt="" />';
-    nameEl.innerHTML = 'John Doe';
-    dateEl.innerHTML = 'Oct 08, 2020';
+    nameEl.textContent = 'John Doe';
+    dateEl.textContent = 'Oct 08, 2020';
     animatedBgs.forEach(bg => bg.classList.remove('animated-bg'));
     animatedBgTexts.forEach(bg => bg.classList.remove('animated-bg-text'));
 }

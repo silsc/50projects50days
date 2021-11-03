@@ -48,3 +48,8 @@ Practice projects part of [@bradtraversy](https://github.com/bradtraversy) cours
 22. Drawing App
 
 23. Kinetic CSS Loader
+
+24. Content Placeholder
+
+25. Sticky Navbar
+

@@ -56,3 +56,7 @@ Practice projects part of [@bradtraversy](https://github.com/bradtraversy) cours
 26. Double Vertical Slider
 
 27. Toast Notification
+
+28. Github Profiles
+
+29. Double Heart Click

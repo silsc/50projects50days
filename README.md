@@ -60,3 +60,5 @@ Practice projects part of [@bradtraversy](https://github.com/bradtraversy) cours
 28. Github Profiles
 
 29. Double Heart Click
+
+30. Auto Text Effect

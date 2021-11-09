@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 * {
     box-sizing: border-box;
 }
   
 body {
+    background-color: darksalmon;
+    font-family: 'Roboto', sans-serif;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -13,3 +15,25 @@ body {
     overflow: hidden;
     margin: 0;
 }
+
+div {
+    position: absolute;
+    bottom: 20px;
+    background: rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+input {
+    width: 50px;
+    padding: 5px;
+    font-size: 18px;
+    background-color: darksalmon;
+    border: none;
+    text-align: center;
+}
+
+input:focus {
+    outline: none;
+}
+
